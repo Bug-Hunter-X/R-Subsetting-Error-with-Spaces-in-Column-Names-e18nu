@@ -1,0 +1,1 @@
+This repository contains an example of a common but easily overlooked error in R when subsetting data frames.  The error arises when attempting to subset a data frame using column names that contain spaces. The `bug.R` file demonstrates the error, and `bugSolution.R` provides the corrected code.
